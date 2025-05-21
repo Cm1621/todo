@@ -18,5 +18,3 @@ projet-devops/
 │
 ├── README.md             # Documentation
 └── .gitignore            # Fichiers à ignorer par Git
-
-Lien du repositorie : https://github.com/sionlysion/todo
